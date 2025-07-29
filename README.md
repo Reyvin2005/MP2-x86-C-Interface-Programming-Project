@@ -1,6 +1,8 @@
 # MP2-x86-C-Interface-Programming-Project
 **Submitted by:**
+
 **Siongco, Raine Margaux A.**
+
 **Tan, Reyvin Matthew** 
 
 I. Comparative execution time and short analysis of the performance of the kernels 
