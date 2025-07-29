@@ -5,7 +5,7 @@
 
 **Tan, Reyvin Matthew** 
 
-I. Comparative execution time and short analysis of the performance of the kernels 
+## I. Comparative execution time and short analysis of the performance of the kernels 
 
 | Vector Size | C Time (s) | ASM Time (s) | Speedup (C/ASM) | Faster Version | Correctness |
 |-------------|------------|--------------|-----------------|----------------|-------------|
@@ -18,10 +18,10 @@ I. Comparative execution time and short analysis of the performance of the kerne
 - All results maintain correctness, showing that optimization did not compromise output accuracy.
 - This suggests Assembly is best used for performance-critical applications with moderate-sized data.
 
-II. Screenshot: Program Output with Correctness Check 
+## II. Screenshot: Program Output with Correctness Check 
 
 <img width="614" height="426" alt="image" src="https://github.com/user-attachments/assets/093ff9f5-08aa-4d7a-bb4a-9abc63720b85" />
 
-III. Short Video:
+## III. Short Video:
 
 
