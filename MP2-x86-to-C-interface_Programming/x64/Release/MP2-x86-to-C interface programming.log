@@ -1,0 +1,6 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MP2-x86-to-C interface programming.vcxproj -> C:\Users\Reyvin\OneDrive - De La Salle University - Manila\Desktop\VsCode22\source\repos\MP2-x86-to-C interface programming\x64\Release\MP2-x86-to-C interface programming.exe
