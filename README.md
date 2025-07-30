@@ -1,6 +1,7 @@
 # MP2-x86-C-Interface-Programming-Project
 **LBYARCH, 12A**
-**Submitted by: Group 9**
+**Submitted by: **
+**Group 9**
 
 **Siongco, Raine Margaux A.**
 
@@ -8,11 +9,11 @@
 
 ## I. Comparative execution time and short analysis of the performance of the kernels 
 
-| Vector Size | C Time (s) | ASM Time (s) | Speedup (C time / ASM time) | Faster Version | Correctness |
-| ----------- | ---------- | ------------ | --------------------------- | -------------- | ----------- |
-| 2²⁰         | 0.003133   | 0.001700     | 1.84×                       | Assembly       | PASSED      |
-| 2²⁴         | 0.045200   | 0.017200     | 2.63×                       | Assembly       | PASSED      |
-| 2²⁸         | 0.768167   | 0.475733     | 1.61×                       | Assembly       | PASSED      |
+| Vector Size | C Time (s) | ASM Time (s) | Speed Difference (C time / ASM time) | Faster Version | Correctness |
+| ----------- | ---------- | ------------ | ------------------------------------ | -------------- | ----------- |
+| 2²⁰         | 0.003133   | 0.001700     | 1.84×                                | Assembly       | PASSED      |
+| 2²⁴         | 0.045200   | 0.017200     | 2.63×                                | Assembly       | PASSED      |
+| 2²⁸         | 0.768167   | 0.475733     | 1.61×                                | Assembly       | PASSED      |
 
 - Across all tested vector sizes, the Assembly implementation consistently outperforms the C version.
 
