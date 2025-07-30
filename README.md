@@ -25,7 +25,17 @@
 - These results highlight Assembly’s advantage in speed for performance-critical operations, while C remains valid for ease of development and maintainability.
 
 ## II. Screenshot: Program Outputs with Correctness Check 
+**2²⁰**
 
+<img width="959" height="254" alt="image" src="https://github.com/user-attachments/assets/0de23f51-821d-4dd5-ae73-0aaf03cb22b6" />
+
+**2²⁴**
+
+<img width="959" height="257" alt="image" src="https://github.com/user-attachments/assets/0876d5b4-9175-4f71-8e08-69ecad9865fb" />
+
+**2²⁸**
+
+<img width="959" height="259" alt="image" src="https://github.com/user-attachments/assets/888b2ad9-7838-492f-8e62-0c974f8d680c" />
 
 
 ## III. Short Video:
