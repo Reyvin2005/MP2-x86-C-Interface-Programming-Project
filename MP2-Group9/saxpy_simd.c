@@ -1,3 +1,9 @@
+/*  Group 9, LBYARCH S12A 
+    Siongco, Raine Margaux A.
+    Tan, Reyvin Matthew T.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

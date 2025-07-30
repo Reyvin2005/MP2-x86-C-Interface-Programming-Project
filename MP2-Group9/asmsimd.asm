@@ -1,3 +1,7 @@
+; Group 9, LBYARCH S12A 
+; Siongco, Raine Margaux A. 
+; Tan, Reyvin Matthew T.
+
 section .data
 section .text
 bits 64
